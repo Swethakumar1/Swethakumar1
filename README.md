@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swetha!
 - 👀 I’m a Security Engineer interested in Application Security, secure coding, web security. 
-- 🌱 I’m currently learning about efficiency of algorithms and sharpening my security skills on TryHackMe https://tryhackme.com/p/SpecialK. 
+- 🌱 I’m currently learning about the efficiency of algorithms and sharpening my security skills on TryHackMe https://tryhackme.com/p/SpecialK. 
 
 
 <!---
