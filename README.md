@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Swetha!
+- 👀 I’m a Security Engineer interested in Application Security, secure coding, web security. 
+- 🌱 I’m currently learning about efficiency of algorithms and training my security skills on TryHackMe. 
+
+
+<!---
+Swethakumar1/Swethakumar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
